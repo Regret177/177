@@ -1,0 +1,188 @@
+@charset "utf-8";
+body {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 5px;
+	bottom: 5px;
+	background-color: #FAF9F9;
+}
+.blue {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 5px;
+	bottom: 5px;
+	background-color: #7B92C9;
+}
+.blue table {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 780px;
+	margin-left: 20px;
+}
+.blue table tr td {
+	padding-left: 20px;
+}
+
+
+.main {
+	width: 1000px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FDFCFC;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+.main .navbar {
+	height: 500px;
+	width: 200px;
+	float: left;
+	background-color: #E91C20;
+}
+.main .navbar a {
+	width: 70%;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FCF8F9;
+	font-size: 15px;
+	line-height: 40px;
+	border-radius: 20px;
+	text-align: center;
+	background-color: #F8181C;
+	display: block;
+	text-decoration: none;
+}
+.main .navbar a:hover {
+	background-color: #F12525;
+	color: #B10D10;
+	-webkit-box-shadow: inset 0px 0px 10px;
+	box-shadow: inset 0px 0px 10px;
+}
+.main .section {
+	width: 100%;
+	height: 100%;
+	margin-left: 10px;
+	background-color: #2335D0;
+}
+.main .se {
+	background-color: #514343;
+	width: 664px;
+	height: 511px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.main .section .iframe {
+	border: none;
+	width: 100%;
+	height: 100%;
+}
+.footer {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: normal;
+	text-align: center;
+	background-color: #FBF6F6;
+}
+.red {
+	background-color: #D31033;
+}
+.red table  tr td {
+	width: 700px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.red table tr {
+}
+.red table tr td {
+	margin-left: 0px;
+	padding-left: 20px;
+
+}
+.d-text   {
+	height: 30px;
+	line-height: 30px;
+	float: left;
+}
+.txt-1 {
+	color: #333;
+	line-height: 30px;
+	text-align: left;
+	border: none;
+	text-indent: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	width: 200px;
+	height: 31px;
+}
+.txt-2 {
+	color: #333;
+	line-height: 30px;
+	border: none;
+	text-indent: 10px;
+	width: 200px;
+	height: 31px;
+	float: left;
+	background-color: #EEE1E1;
+}
+.mail-1 {
+	line-height: 30px;
+	border: none;
+	text-align: center;
+	background-color: #E2D2D3;
+	width: 10px;
+	height: 31px;
+}
+.mail-2 {
+	width: 100px;
+	height: 45px;
+	color: #333;
+	border: none;
+	line-height: 30px;
+}
+.d-erea {
+	border: none;
+	height: 150px;
+	float: left;
+
+}
+.areatext {
+	width: 60%;
+	height: 100px;
+	float: left;
+	color: #333;
+	border: none;
+	text-indent: 10px;
+}
+.submit {
+	width: 30%;
+	margin-left: 168px;
+	color: #FFFEFF;
+	text-indent: 0px;
+	line-height: 30px;
+	border: none;
+	font-size: 15px;
+	border-radius: 10px;
+	height: 100px;
+	float: left;
+}
+.subnit1 {
+	height: 100px;
+	width: 300px;
+}
+
+.submit:hover {
+	background-color: #111DCD;
+}
+.dian {
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
